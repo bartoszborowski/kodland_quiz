@@ -3,7 +3,7 @@ name = "kodland_quiz"
 version = "0.1.0"
 description = "Kodland Quiz Application"
 authors = ["Bartosz Borowski"]
-readme = "README.md"
+readme = "../README.md"
 license = MIT
 
 [tool.poetry.dependencies]
