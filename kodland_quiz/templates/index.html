@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1>{% block title %}Python Quiz{% endblock %}</h1>
+{% if g.user %}
+{% endif %}
+{% endblock %}
+
+{% block content %}
+<form action="/submit" method="post">
+    {% for question in question_list %}
+    <article class="post">
+        <header>
+            <h2> {{ loop.index }}. {{ question['question_text'] }}</h2>
+        </header>
+        <div class="answers">
+            {% for answer in question['answers'] %}
+            <input type="radio" name="{{ question['id'] }}" value="{{ answer }}" required> {{ answer }}
+            <br>
+            {% endfor %}
+        </div>
+    </article>
+    {% if not loop.last %}
+    <hr>
+    {% endif %}
+    {% endfor %}
+    <button type="submit">Submit Answers</button>
+</form>
+<br>
+{% endblock %}

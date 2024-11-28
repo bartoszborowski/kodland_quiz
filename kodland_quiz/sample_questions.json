@@ -1,0 +1,95 @@
+{
+    "topic": "Artificial Intelligence Development in Python",
+    "questions": [
+        {
+            "question_text": "What is Python used for in Artificial Intelligence?",
+            "answers": [
+                "Building robots only",
+                "Creating programs that can learn and think",
+                "Making computer games only"
+            ],
+            "correct": "Creating programs thast can learn and think"
+        },
+        {
+            "question_text": "What is Artificial Intelligence (AI)?",
+            "answers": [
+                "A type of pizza",
+                "A robot superhero",
+                "A way for computers to solve problems like humans"
+            ],
+            "correct": "A way for computers to solve problems like humans"
+        },
+        {
+            "question_text": "Which Python library is popular for AI and machine learning?",
+            "answers": [
+                "NumPy",
+                "Pandas",
+                "TensorFlow"
+            ],
+            "correct": "TensorFlow"
+        },
+        {
+            "question_text": "What does AI stand for?",
+            "answers": [
+                "Artificial Ice",
+                "Artificial Intelligence",
+                "Animal Instinct"
+            ],
+            "correct": "Artificial Intelligence"
+        },
+        {
+            "question_text": "What is a Python 'if' statement used for in AI?",
+            "answers": [
+                "To make decisions based on conditions",
+                "To draw shapes",
+                "To count numbers"
+            ],
+            "correct": "To make decisions based on conditions"
+        },
+        {
+            "question_text": "Which is an example of AI in action?",
+            "answers": [
+                "A calculator doing math",
+                "A chatbot answering your questions",
+                "Watching a movie"
+            ],
+            "correct": "A chatbot answering your questions"
+        },
+        {
+            "question_text": "What is a dataset in AI?",
+            "answers": [
+                "A group of data used for training AI models",
+                "A collection of chairs and tables",
+                "A type of computer"
+            ],
+            "correct": "A group of data used for training AI models"
+        },
+        {
+            "question_text": "Why is Python a good choice for AI?",
+            "answers": [
+                "It's easy to learn and has powerful libraries",
+                "It looks cool on the screen",
+                "It is the fastest programming language"
+            ],
+            "correct": "It's easy to learn and has powerful libraries"
+        },
+        {
+            "question_text": "What is a neural network in AI?",
+            "answers": [
+                "A type of road map",
+                "A computer program inspired by the human brain",
+                "A game for kids"
+            ],
+            "correct": "A computer program inspired by the human brain"
+        },
+        {
+            "question_text": "What is a key skill for using AI in Python?",
+            "answers": [
+                "Understanding how to ride a bike",
+                "Knowing how to write code",
+                "Singing well"
+            ],
+            "correct": "Knowing how to write code"
+        }
+    ]
+}
