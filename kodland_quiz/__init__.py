@@ -63,7 +63,7 @@ questions_dict = {
                 "Creating programs that can learn and think",
                 "Making computer games only",
             ],
-            "correct": "Creating programs thast can learn and think",
+            "correct": "Creating programs that can learn and think",
         },
         {
             "question_text": "What is Artificial Intelligence (AI)?",
