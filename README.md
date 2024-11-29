@@ -84,6 +84,12 @@ A simple yet engaging quiz application designed to inspire kids and teenagers to
 - Configure the wsgi.py file to point to the Flask application.
 - Reload the app on the PythonAnywhere dashboard.
 
+## 🧪 Test
+
+```bash
+python3 -m unittest discover tests  
+```
+
 ## 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
